@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="jspmnzzch:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>jspmnzzch</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="jspmnzzch.war">
+      <element id="artifact" artifact-name="jspmnzzch:war exploded" />
+    </root>
+  </artifact>
+</component>
